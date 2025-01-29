@@ -7,3 +7,9 @@ code modified from web.github.
 
 
 code modified from windows explorer
+
+
+
+
+
+adding few codes from bash command from desktop
