@@ -3,6 +3,7 @@
 // Start session 
 if(!session_id()){ 
     session_start(); 
+//kuber added this code from desktop
 } 
  
 // Retrieve session data 
